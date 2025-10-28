@@ -69,6 +69,3 @@ Faça o Commit das suas mudanças.
 Faça o Push para a Branch.
 
 Abra um Pull Request.
-
-📞 Contato
-CarlosEduardo-J - carlos.jaquis.tech@gmail.com 
