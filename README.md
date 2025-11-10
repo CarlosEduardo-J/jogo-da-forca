@@ -29,7 +29,7 @@ Certifique-se de que você tem o Python 3.x instalado em sua máquina.
 1.  **Clone o Repositório:** Baixe o código para sua máquina.
     ```bash
     git clone https://github.com/CarlosEduardo-J/jogo-da-forca
-    cd [jogo-da-forca]
+    cd jogo-da-forca
     ```
 2.  **Execute o Script:** Use o comando `python` no terminal:
     ```bash
@@ -56,8 +56,9 @@ O coração do jogo está na lista `palavras`:
 palavras = ["python", "programacao", "computador", "desenvolvedor", "dados"]
 
 Basta editar esta lista para adicionar seus próprios temas, como: palavras = ["frutas", "animais", "filmes"] 🍎🦁🎬
+```
 
-🤝 Contribuições
+## 🤝 Contribuições
 Pull requests e sugestões são sempre bem-vindas! Se quiser melhorar este projeto:
 
 Faça um Fork do projeto.
